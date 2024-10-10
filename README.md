@@ -58,11 +58,11 @@ This project involves building several tools to analyze webtoon content, perform
 
 3. Perform sentiment analysis:
 
-  - Scrape the comments and run the sentiment analysis script.
+   - Scrape the comments and run the sentiment analysis script.
 
 4. Use the chatbot:
 
-  - Run the chatbot script and interact with it using the predefined questions.
+   - Run the chatbot script and interact with it using the predefined questions.
 
 ### Summary
 This project demonstrates the integration of web scraping, content classification, sentiment analysis, and chatbot development using Python. Each task builds on the previous one to provide a comprehensive toolkit for analyzing and interacting with webtoon content.
